@@ -1,6 +1,6 @@
 balance=1000
 
-print ("Welcome to the ATM")
+print ("ATM system started successfully!")
 while True:
     print("Please select an option: ")
     print("1. Check Balance")
